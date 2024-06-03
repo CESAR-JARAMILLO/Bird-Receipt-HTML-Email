@@ -1,0 +1,228 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      .footer-links {
+        color: #002139;
+        text-decoration: none;
+        font-weight: bold;
+        font-size: 12px;
+        padding: 0 6px;
+      }
+
+      .footer-links:hover {
+        text-decoration: underline;
+        color: #002139;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#f2f2f2">
+    <mj-section background-color="#b2dbea">
+      <mj-column vertical-align="middle">
+        <mj-image src="http://127.0.0.1:5500/images/logo.png" alt="logo" width="100px" align="left" />
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-image src="http://127.0.0.1:5500/images/scooter.png" alt="scooter" width="150px" align="right" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-bottom="0" background-color="#fff">
+      <mj-column vertical-align="middle">
+        <mj-text font-size="20px" font-weight="bold">
+          Hi,
+        </mj-text>
+        <mj-text font-size="14px" font-weight="500">
+          Thank you for riding with Bird! Here is your receipt:
+        </mj-text>
+        <mj-divider width="540px" border-width="1px" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 12px" background-color="#fff">
+      <mj-column vertical-align="middle">
+        <mj-text font-size="14px">
+          Start Fee
+        </mj-text>
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-text align="right" font-size="14px">
+          $1.00
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 12px" background-color="#fff">
+      <mj-column vertical-align="middle">
+        <mj-text font-size="14px">
+          Ride Charge ($0.52 x 11 min)
+        </mj-text>
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-text align="right" font-size="14px">
+          $5.72
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 12px" background-color="#fff">
+      <mj-column vertical-align="middle">
+        <mj-text font-size="14px">
+          Compliance Fee
+        </mj-text>
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-text align="right" font-size="14px">
+          $0.50
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-column vertical-align="middle">
+        <mj-divider width="540px" border-width="1px" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 12px" background-color="#fff">
+      <mj-column vertical-align="middle">
+        <mj-text font-size="14px">
+          Total Amount (Net)
+        </mj-text>
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-text align="right" font-size="14px">
+          $7.22
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 12px" background-color="#fff">
+      <mj-column vertical-align="middle">
+        <mj-text font-size="14px">
+          Sales Tax (9.50%)
+        </mj-text>
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-text align="right" font-size="14px">
+          $0.69
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-column vertical-align="middle">
+        <mj-divider width="540px" border-width="1px" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 12px" background-color="#fff">
+      <mj-column vertical-align="middle">
+        <mj-text font-weight="bold" font-size="16px">
+          Total Amount (Gross)
+        </mj-text>
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-text font-weight="bold" align="right" font-size="16px">
+          $7.91
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="16px" background-color="#fff">
+      <mj-column width="40%" background-color="#f2f2f2" vertical-align="middle" padding="20px 0">
+        <mj-text font-weight="bold" align="left" font-size="16px" color="#f2f2f2">
+          0
+        </mj-text>
+      </mj-column>
+      <mj-column width="60%" background-color="#f2f2f2" vertical-align="middle" padding="20px 0">
+        <mj-text font-weight="bold" align="right" font-size="16px">
+          <span style="font-weight: 400">Receipt ID:</span> US-SRI-2023-6-153236
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 80px" background-color="#fff">
+      <mj-column width="40%" vertical-align="middle">
+        <mj-text color="#8d8d8d" align="center" font-size="14px">
+          Beginning Balance
+        </mj-text>
+        <mj-text font-weight="bold" align="center" font-size="14px">
+          $10.00
+        </mj-text>
+      </mj-column>
+      <mj-column width="20%" vertical-align="middle">
+        <mj-text align="center" font-size="18px">
+          ➔
+        </mj-text>
+      </mj-column>
+      <mj-column width="40%" vertical-align="middle">
+        <mj-text color="#8d8d8d" align="center" font-size="14px">
+          Remaining Balance
+        </mj-text>
+        <mj-text font-weight="bold" align="center" font-size="14px">
+          $2.09
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-column vertical-align="middle">
+        <mj-divider border-color="#a5a5a5" width="540px" border-width="1px" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-column vertical-align="middle">
+        <mj-text color="#002139" line-height="24px" font-size="14px">
+          If you are on a Balance Auto Update plan, we will deduct the ride price from your preloaded balance and auto-reload your balance when it hits $0.
+        </mj-text>
+        <mj-text color="#002139" line-height="24px" font-size="14px">
+          For more information on payments check out <a href="https://help.bird.co/hc/en-us/articles/360032350111-Receipt-request">Help</a>.
+        </mj-text>
+        <mj-text padding-bottom="0" color="#002139" line-height="24px" font-size="14px">
+          Best,
+        </mj-text>
+        <mj-text padding-top="0" color="#002139" line-height="24px" font-size="14px">
+          Bird
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-image href="https://www.bird.co/" src="http://127.0.0.1:5500/images/footer-logo.png" alt="logo" width="168px" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff">
+      <mj-group width="100px" css-class="icons-size">
+        <mj-column padding="0">
+          <mj-image href="https://www.instagram.com/bird/" padding="0" width="21px" src="http://127.0.0.1:5500/images/instagram.png" alt="instagram" />
+        </mj-column>
+        <mj-column padding="0">
+          <mj-image href="https://x.com/BirdRide" padding="0" width="21px" src="http://127.0.0.1:5500/images/twitter.png" alt="twitter" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-column vertical-align="middle">
+        <mj-divider border-color="#a5a5a5" border-width="1px" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#fff">
+      <mj-column vertical-align="middle">
+        <mj-text align="center" font-weight="bold" color="#8d8d8d" font-size="12px">
+          <a href="#" class="footer-links">Rental Agreemant</a> - <a href="#" class="footer-links">Terms of Service</a> - <a href="#" class="footer-links">Privacy Policy</a>
+        </mj-text>
+        <mj-text padding-bottom="0" align="center">
+          Bird Rides, Inc. Address
+        </mj-text>
+        <mj-text padding="0 0 32px" align="center">
+          <span style="font-weight: bold">© BIRD</span> 8605 Santa Monica Blvd., #20388, West Hollywood, CA 90069, USA
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
